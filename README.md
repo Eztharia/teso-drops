@@ -1,2 +1,5 @@
-# teso-drops
-Python script for launch multicast of drops enabled videos
+# Connect to Twitch API for find live stream with rewards activated
+
+1 - Install dependencies 
+2 - Launch script
+3 - Enjoy
