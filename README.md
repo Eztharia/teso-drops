@@ -1,2 +1,2 @@
 # teso-drops
-Python script for launch multicast of Drops enabled videos
+Python script for launch multicast of drops enabled videos
